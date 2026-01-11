@@ -9,6 +9,15 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.proeimg{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid white;
+    object-fit: cover;
+    overflow: hidden;
+}
+
 /* BODY BACKGROUND */
 body {
     min-height: 100vh;
